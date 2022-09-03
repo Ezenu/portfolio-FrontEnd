@@ -1,0 +1,15 @@
+
+.titulo-h2
+{
+     color:blue;
+
+}
+#idcoloresrojos{
+    color:red;
+}
+li :hover {
+    color:red;
+}
+#selectormouse:hover{
+    color:red;
+}
