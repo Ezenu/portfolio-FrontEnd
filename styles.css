@@ -5,17 +5,54 @@
 
 }
 
-.iniport
-{
-    
-    height:50px ;
-    width: 900;
+.i-arg-progperfil{
+    height:150px ;
+    width: 150px;
+    padding: 50px;
+    display: inline-block;
+    margin-top: 200px;
+    display:block;
+    position: static;
+}
+.iniport {
+    height:100px ;
+    width: 300;
     background-color: grey;
     text-align: center;
-    /*border-radius:10px 10px;*/
+    border-radius:10px 10px;
     border: 4px solid blue;
-    margin: 10px;
+    margin-left: 50px;
+    padding-left: 50px;
+    display: block;
+    position:relative;
+    top: -150px;
+    bottom:0 px;
+    right: 0px;
+    left:150px ;
 
+}
+.banner {
+    height:100px ;
+    width: 1000px;
+    display: inline-block;
+    position:relative;
+    top: 200px;
+    bottom:0 px;
+    right: 0px;
+    left:250px ;
+
+}
+
+.perfil{
+    height:150px ;
+    width: 150px;
+    display: inline-block;
+    position: relative;
+    top: 0px;
+    bottom:0 px;
+    right: 0px;
+    left:20px ;
+    
 }
 
 li :hover 
@@ -75,23 +112,57 @@ p {
     text-shadow: 3px 2px 7px #ffff;
     border-radius:10px 10px;
     border: 4px solid blue;
+    position: relative;
+    top: -150px;
+    bottom:0 px;
+    right: 0px;
+    left:10px ;
+
 }
 
 nav{
-    height:100px ;
-    width: 250px;
+    height:300px ;
+    width: 800px;
     background-color: yellow;
+    position: relative;
+    top: -600px;
+    bottom:0 px;
+    right: 0px;
+    left:300px ;
+    font-size: 40px;
+
 }
-.perfil{
-    height:150px ;
-    width: 150px;
+.redesface{
+    height: 50px;
+    width: 50px;
+}
+.redesinsta{
+    height: 50px;
+    width: 50px;
+    position:relative;
+    top: 5px;
+    bottom:0 px;
+    right: 0px;
+    left:1000px ;
     
 }
-
-.i-arg-progperfil{
-    height:150px ;
-    width: 150px;
-    padding: 500px;
-    box-sizing: border-box;
+.redesface{
+    height: 50px;
+    width: 50px;
+    position:relative;
+    top: -50px;
+    bottom:0 px;
+    right: 0px;
+    left:1070px ;
+    
 }
-codigo
+.redestwt{
+    height: 50px;
+    width: 50px;
+    position:relative;
+    top: 20px;
+    bottom:0 px;
+    right: 0px;
+    left:1130px ;
+    
+}
