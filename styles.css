@@ -5,23 +5,22 @@
 
 }
 
-.i-arg-progperfil{
-    height:150px ;
-    width: 150px;
-    padding: 50px;
+.i-arg-prog{
+    height:200px ;
+    width: 200px;
+    padding: 10px;
     display: inline-block;
-    margin-top: 200px;
-    display:block;
-    position: static;
-    top: 0px;
+    margin-top: 0px;
+    position:relative;
+    top: -90px;
     bottom:0 px;
     right: 0px;
-    left:0px ;
+    left:-1000px ;
     
 }
 .iniport {
-    height:100px ;
-    width: 300;
+    height:50px ;
+    width: 1100px;
     background-color: grey;
     text-align: center;
     border-radius:10px 10px;
@@ -30,10 +29,10 @@
     padding-left: 50px;
     display: block;
     position:relative;
-    top: -150px;
+    top: -70px;
     bottom:0 px;
     right: 0px;
-    left:150px ;
+    left:-10px ;
 
 }
 .banner {
@@ -41,10 +40,10 @@
     width: 1000px;
     display: inline-block;
     position:relative;
-    top: 240px;
+    top: -50px;
     bottom:0 px;
     right: 0px;
-    left:250px ;
+    left:200px ;
 
 }
 
@@ -53,10 +52,10 @@
     width: 150px;
     display: inline-block;
     position: relative;
-    top: 0px;
+    top: 200px;
     bottom:0 px;
     right: 0px;
-    left:20px ;
+    left:-1170px ;
     
 }
 
@@ -110,7 +109,7 @@ p {
     box-sizing: border-box;
     height:200px;
     width: 200px ;
-    padding: 20px 50px 20px 10px;
+    padding: 10px 40px 20px 10px;
     text-align: left;
     margin: 10;
     
@@ -118,7 +117,7 @@ p {
     border-radius:10px 10px;
     border: 4px solid blue;
     position: relative;
-    top: -150px;
+    top: 100px;
     bottom:0 px;
     right: 0px;
     left:10px ;
@@ -128,9 +127,9 @@ p {
 nav{
     height:300px ;
     width: 800px;
-    background-color: yellow;
+    background-color:lightblue;
     position: relative;
-    top: -600px;
+    top: -500px;
     bottom:0 px;
     right: 0px;
     left:300px ;
@@ -140,12 +139,12 @@ nav{
 .redes{
     height: 50px;
     width: 50px;
-    position: relative;
+    /* position: relative;
     display: inline-block;
     top: 0px;
     bottom:0 px;
     right: 0px;
-    left:0px ;
+    left:0px ; */
     
 }
 .redesinsta{
