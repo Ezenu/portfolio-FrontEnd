@@ -1,85 +1,50 @@
+header{
+    background: #2c3e50;
+    color: #fff;
+}
 
-.titulo-h2
-{
-     color:blue;
+article{
+    background: #f2f2f2;
+}
+
+.iconoargprog{
+    background: #34495e;
+    color: #fff;
+}
+
+.menuppal{
+background: #b9bfc4;
+color:rgb(250, 246, 246) ;
+}
+aside{
+    background: #b9ceca;
+    color: rgb(204, 26, 26);
 
 }
 
-.i-arg-prog{
-
-    
+footer{
+    background: #16a085;
+    color: #fff;
 }
-.iniport {
-
-
+.iconoargprog{
+    height: auto;
+    width: auto;
 }
-.banner {
-
-
-} 
-
 .perfil{
-
-}
-
-li :hover 
-{
-    color:red;
-}
-
-#selectormouse:hover
-{
-    color:red;
-} 
-
-.datos-titulo-parrafo
-{
-    font-size: 25px;
-}
-
-
-.datos-titulo-parrafo__p    
-{
-    font-size: 1em;
-    font-family: 'Courier New', Courier, monospace;
-    color: red;
-}
-
-h1
-{
-
-
-}
-
-
-p { 
-
-    
-}
-
-.inicial { 
-
-
-
-}
-
-nav{
-
-
+    height: 300px;
+    width: 300px;
 }
 .redes{
-
-    
+    height: 100px;
+    width: 100px;
 }
-.redesinsta{
-
-    
+.inicial
+{
+    background: #d1e969;
+    color: rgb(107, 20, 34);
 }
-.redesface{
-
-    
-}
-.redestwt{
-
-    
+.inicial2
+{
+    background: #4a4ce4;
+    color: rgb(255, 255, 255);
 }
