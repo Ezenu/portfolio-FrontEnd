@@ -12,10 +12,15 @@ article{
     color: #fff;
 }
 
-.menuppal{
-background: #b9bfc4;
-color:rgb(250, 246, 246) ;
+.menuppal  {
+background: #869fb4;
+color: black ;
+text-shadow: 1px 1px rgb(38, 36, 46);
+font-size: 22px;
+
+
 }
+
 aside{
     background: #b9ceca;
     color: rgb(204, 26, 26);
@@ -34,9 +39,11 @@ footer{
     height: 300px;
     width: 300px;
 }
-.redes{
-    height: 100px;
-    width: 100px;
+.redes a {
+    height: 300px;
+    width:300px;
+    background: #d8e2ab;
+
 }
 .inicial
 {
@@ -47,4 +54,40 @@ footer{
 {
     background: #4a4ce4;
     color: rgb(255, 255, 255);
+}
+.foot{
+    font: black;
+}
+.linkredes a {
+    background: #b0b0c2;
+    color: #fff;
+    
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 30vh;
+    color: #fff;
+
+  
+}
+nav a {
+    color: #fff;
+}
+.redes0{
+    height: 50px;
+    width: 50px;
+}
+.redes1{
+    height: 50px;
+    width: 50px;
+}
+.redes2{
+    height: 50px;
+    width: 50px;
+}
+.tredes{
+    display: flex;
+    justify-content: center;
 }
